@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  height: 60px;
+  background-color: gray;
+  padding: 20px 30px;
+  display: flex;
+  gap: 10px;
+}
